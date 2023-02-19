@@ -9,10 +9,9 @@ const config = {
   tagline: 'CS 공부하면서 배운 내용을 기록합니다.',
   favicon: 'img/logo.png',
 
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://cs-note-phi.vercel.app/',
   baseUrl: '/',
 
-  organizationName: 'facebook',
   projectName: 'CS-note',
 
   onBrokenLinks: 'throw',
